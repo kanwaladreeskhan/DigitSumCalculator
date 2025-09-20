@@ -1,0 +1,7 @@
+C:\Users\FC Technologies\Documents\Visual Studio 2022\DigitSumCalculator\DigitSumCalculator\bin\Debug\DigitSumCalculator.exe.config
+C:\Users\FC Technologies\Documents\Visual Studio 2022\DigitSumCalculator\DigitSumCalculator\bin\Debug\DigitSumCalculator.exe
+C:\Users\FC Technologies\Documents\Visual Studio 2022\DigitSumCalculator\DigitSumCalculator\bin\Debug\DigitSumCalculator.pdb
+C:\Users\FC Technologies\Documents\Visual Studio 2022\DigitSumCalculator\DigitSumCalculator\obj\Debug\DigitSumCalculator.csproj.AssemblyReference.cache
+C:\Users\FC Technologies\Documents\Visual Studio 2022\DigitSumCalculator\DigitSumCalculator\obj\Debug\DigitSumCalculator.csproj.CoreCompileInputs.cache
+C:\Users\FC Technologies\Documents\Visual Studio 2022\DigitSumCalculator\DigitSumCalculator\obj\Debug\DigitSumCalculator.exe
+C:\Users\FC Technologies\Documents\Visual Studio 2022\DigitSumCalculator\DigitSumCalculator\obj\Debug\DigitSumCalculator.pdb
